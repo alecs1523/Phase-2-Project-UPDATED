@@ -116,3 +116,19 @@ Percentage Change In Gross Income from 2010-2018
 2. Adventure increased 47%
 3. Comedy increased 8%
    
+---
+Conclusions
+---
+- Focus on the top grossing genres: Action, Adventure, & Sci-Fi
+- Movie lengths should be around 120 minutes
+- Strictly use writers and directors in the top 2/3 of average rating, the dropoff in the bottom third is substantial
+
+---
+Recommendations
+---
+Recomendations
+My recommendation is to focus on a narrow subset of films with genres being Action, Adventure, and/or Sci-Fi, movie length should be around 120 minutes, and directors / writers should have 20 movies under their belt and in top 2/3 of average rating.
+This recommnedation is supported by 4 key pieces of evidence:
+- Action, Adventure, and Sci-Fi films have the highest gross income, average rating, and number of votes
+- Movie lengths in the 120 minute bucket received the highest number of votes
+- The difference between writers / directors in the top 2/3 versus the bottom 1/3 is substantial
