@@ -50,12 +50,68 @@ Exploratory Data Analysis
 ---
 Group genres together to evaluate the best-performing genres across rating, number of votes, and gross income
 ![image](https://github.com/user-attachments/assets/10e79eb1-04d2-46f8-a940-9ccfe51a4f35)
+
 The top 5 genres by average rating are:
-Short
-Documentary
-Game-Show
-News
-Biography
+- Short
+- Documentary
+- Game-Show
+- News
+- Biography
 
 Number of Votes By Genre
 ![image](https://github.com/user-attachments/assets/dbffc56a-b535-4c76-a554-a60dc25314d5)
+---
+The combined rating for genres by calculating the rank of votes and rating (the lower the score the higher the rank)
+![image](https://github.com/user-attachments/assets/2dac4a9d-ee35-4d16-8c15-c0d38bb665fc)
+
+Observations from Graph:
+
+This graph shows rankings with the lowest bar indicating the highest combined rating between votes and rank
+Biography, Adventure, Animation, Sport, Music are the top 5
+
+---
+Top writers based on average number of votes (must have written 20 or more films)
+![image](https://github.com/user-attachments/assets/9ddc111f-f673-4963-919b-419893300065)
+
+--- 
+Top Directors
+![image](https://github.com/user-attachments/assets/98c6a80b-0883-421e-8109-31f5e56caa32)
+
+--- 
+Movie Length 
+---
+![image](https://github.com/user-attachments/assets/5f7cee9a-998d-43cd-b08a-daa9532967cc)
+
+Observations from this graph:
+
+Movies with lengths in the 0-75 and 240+ minutes buckets tend to have higher median ratings compared to other buckets.
+Movies in the 76-240 minutes range have relatively consistent median ratings, but with more lower-end outliers.
+***
+---
+Gross Income Dataset (bom.movie_gross.csv.gz)
+---
+The dataset only contains data dating back to 2010 which is recent enough to include all the data
+
+We will filter on the top 2,000 grossing movies out of the 6,915 in the dataset to focus on the most successful films
+![image](https://github.com/user-attachments/assets/d5c3eb5d-b6e0-4540-9209-b08e09af7457)
+
+---
+Top Genres By Gross Income Per Year
+---
+![image](https://github.com/user-attachments/assets/a601527e-b371-493a-98b4-eee0ea26830f)
+Takeaways from above graph:
+- Adventures seems to have the highest gross income every year
+- Action is #2
+
+---
+YoY % Change in Gross Income By Genre
+---
+![image](https://github.com/user-attachments/assets/085b9553-c18b-4934-8fef-f8492c1c224e)
+
+--- 
+Percentage Change In Gross Income from 2010-2018
+---
+1. Action increased 75%
+2. Adventure increased 47%
+3. Comedy increased 8%
+   
