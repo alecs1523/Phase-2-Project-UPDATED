@@ -19,7 +19,8 @@ Data Understanding
 Dataset Overview
 Summary: The datasets contain records on movie name, genre, year, length, director, writer, gross income, and other key variables. 
 
-"C:\Users\alecs\OneDrive\Desktop\Flatiron School\Phase 2 Project\movie_data_erd.jpeg"
+![movie_data_erd](https://github.com/user-attachments/assets/d2be31c9-7091-498d-baae-63dee4ed95af)
+
 
 Important Data Columns:
 1. Movie Basics
