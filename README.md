@@ -32,8 +32,30 @@ Important Data Columns:
 2. Movie Ratings
 - Average Rating
 - Num of Votes
+  
+![image](https://github.com/user-attachments/assets/6b9e299f-7de3-4674-954d-739140e76a54)
 
 3. Writers / Director
 - Primary Name
 - Role 
 
+---
+Data Preparation
+--- 
+Combine movie_basics and movie_ratings tables to evaluate key variables.
+![image](https://github.com/user-attachments/assets/b8cd7c59-523f-4dc8-ae43-1e678a23c493)
+
+---
+Exploratory Data Analysis
+---
+Group genres together to evaluate the best-performing genres across rating, number of votes, and gross income
+![image](https://github.com/user-attachments/assets/10e79eb1-04d2-46f8-a940-9ccfe51a4f35)
+The top 5 genres by average rating are:
+Short
+Documentary
+Game-Show
+News
+Biography
+
+Number of Votes By Genre
+![image](https://github.com/user-attachments/assets/dbffc56a-b535-4c76-a554-a60dc25314d5)
