@@ -3,6 +3,7 @@
 Overview
 This project analyzes movie data from 2010 - 2018 with the intent of identifying the most important varibales impacting a movie's success. 
 ***
+![download](https://github.com/user-attachments/assets/3fc35d5c-d57d-44c7-b3e1-3f75ea0bdc9f)
 
 Data Sources
 1. IMDB - im.db
